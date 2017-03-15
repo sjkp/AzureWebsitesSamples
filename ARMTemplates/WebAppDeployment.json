@@ -94,7 +94,8 @@
               ],
               "properties":{
                 "RepoUrl":"https://github.com/davidebbo-test/Mvc52Application.git",
-                "branch":"master"
+                "branch":"master",
+                "IsManualIntegration": true
               }
             },
             {
